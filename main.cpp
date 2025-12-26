@@ -24,7 +24,7 @@ int main()
         cout << "Enter your choice: ";
         cin >> choice;
         
-        // Clear buffer to prevent skipping inputs in your functions
+       
         cin.ignore(); 
 
         switch (choice)
