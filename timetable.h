@@ -19,5 +19,7 @@ const int SLOTS = 7;
 
 void addTimetable(Slot timetable[DAYS][SLOTS]);
 void viewTimetable(Slot timetable[DAYS][SLOTS]);
+void updateTimetable(Slot timetable[DAYS][SLOTS]);
+void deleteTimetable(Slot timetable[DAYS][SLOTS]);
 
 #endif
